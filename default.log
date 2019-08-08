@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-06T06:40:34.438031200Z</date>
+  <millis>1565073634438</millis>
+  <nanos>31200</nanos>
+  <sequence>0</sequence>
+  <logger>HTTPServerEg</logger>
+  <level>INFO</level>
+  <class>HTTPServerEg.ServerStarter</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Server started</message>
+</record>
+<record>
+  <date>2019-08-06T06:40:34.498566300Z</date>
+  <millis>1565073634498</millis>
+  <nanos>566300</nanos>
+  <sequence>1</sequence>
+  <logger>HTTPServerEg</logger>
+  <level>INFO</level>
+  <class>HTTPServerEg.ServerStarter</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Waiting for a client ...</message>
+</record>
+<record>
+  <date>2019-08-06T06:40:41.939138700Z</date>
+  <millis>1565073641939</millis>
+  <nanos>138700</nanos>
+  <sequence>2</sequence>
+  <logger>HTTPServerEg</logger>
+  <level>INFO</level>
+  <class>HTTPServerEg.ClientHandler</class>
+  <method>&lt;init&gt;</method>
+  <thread>13</thread>
+  <message>Client accepted</message>
+</record>
+<record>
+  <date>2019-08-06T06:40:41.939138700Z</date>
+  <millis>1565073641939</millis>
+  <nanos>138700</nanos>
+  <sequence>3</sequence>
+  <logger>HTTPServerEg</logger>
+  <level>INFO</level>
+  <class>HTTPServerEg.ClientHandler</class>
+  <method>&lt;init&gt;</method>
+  <thread>14</thread>
+  <message>Client accepted</message>
+</record>
+<record>
+  <date>2019-08-06T06:40:42.043784100Z</date>
+  <millis>1565073642043</millis>
+  <nanos>784100</nanos>
+  <sequence>4</sequence>
+  <logger>HTTPServerEg</logger>
+  <level>INFO</level>
+  <class>HTTPServerEg.ClientWriter</class>
+  <method>&lt;init&gt;</method>
+  <thread>14</thread>
+  <message>File Read Successful. Reading: C:\Users\apriyadarshi\Documents\GitHub\1_Projects\HTTPServerEg\src\main\resources\Welcome.html</message>
+</record>
+<record>
+  <date>2019-08-06T06:40:42.416861300Z</date>
+  <millis>1565073642416</millis>
+  <nanos>861300</nanos>
+  <sequence>5</sequence>
+  <logger>HTTPServerEg</logger>
+  <level>INFO</level>
+  <class>HTTPServerEg.ClientWriter</class>
+  <method>&lt;init&gt;</method>
+  <thread>13</thread>
+  <message>File Read Successful. Reading: C:\Users\apriyadarshi\Documents\GitHub\1_Projects\HTTPServerEg\src\main\resources\favicon.ico</message>
+</record>
+<record>
+  <date>2019-08-06T06:41:01.864647700Z</date>
+  <millis>1565073661864</millis>
+  <nanos>647700</nanos>
+  <sequence>6</sequence>
+  <logger>HTTPServerEg</logger>
+  <level>INFO</level>
+  <class>HTTPServerEg.ClientHandler</class>
+  <method>&lt;init&gt;</method>
+  <thread>15</thread>
+  <message>Client accepted</message>
+</record>
+<record>
+  <date>2019-08-06T06:41:01.864647700Z</date>
+  <millis>1565073661864</millis>
+  <nanos>647700</nanos>
+  <sequence>7</sequence>
+  <logger>HTTPServerEg</logger>
+  <level>INFO</level>
+  <class>HTTPServerEg.ClientHandler</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>Client accepted</message>
+</record>
+<record>
+  <date>2019-08-06T06:41:01.881915600Z</date>
+  <millis>1565073661881</millis>
+  <nanos>915600</nanos>
+  <sequence>8</sequence>
+  <logger>HTTPServerEg</logger>
+  <level>SEVERE</level>
+  <class>HTTPServerEg.ClientWriter</class>
+  <method>&lt;init&gt;</method>
+  <thread>15</thread>
+  <message>File Read Un-successful</message>
+</record>
+<record>
+  <date>2019-08-06T06:41:02.255001600Z</date>
+  <millis>1565073662255</millis>
+  <nanos>1600</nanos>
+  <sequence>9</sequence>
+  <logger>HTTPServerEg</logger>
+  <level>INFO</level>
+  <class>HTTPServerEg.ClientWriter</class>
+  <method>&lt;init&gt;</method>
+  <thread>16</thread>
+  <message>File Read Successful. Reading: C:\Users\apriyadarshi\Documents\GitHub\1_Projects\HTTPServerEg\src\main\resources\favicon.ico</message>
+</record>
